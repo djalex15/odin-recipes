@@ -1,2 +1,19 @@
 /* styles.css */
 
+.links-home {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    color: #79aa92;
+}
+
+.p-home {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    color: #272c2c;
+}
+
+.img-food {
+    height: auto;
+    width: 350px;
+}
